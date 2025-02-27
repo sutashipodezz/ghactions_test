@@ -1,2 +1,2 @@
-# ghactions_test
-Repository for learning gh actions skill
+# Github Actions Test
+Repository for learning github actions skill
